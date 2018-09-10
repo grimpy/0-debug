@@ -1,4 +1,4 @@
-from js9 import j
+from jumpscale import j
 from zerorobot.template.base import TemplateBase
 
 CONTAINER_TEMPLATE_UID = 'github.com/zero-os/0-templates/container/0.0.1'
